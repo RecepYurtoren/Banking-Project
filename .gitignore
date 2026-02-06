@@ -1,0 +1,5 @@
+node_modules/
+target/
+.mvn/
+*.class
+.DS_Store
